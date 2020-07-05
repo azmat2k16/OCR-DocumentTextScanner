@@ -1,0 +1,7 @@
+To run this Project properly
+
+in Windows download
+- TESSERACT
+
+in PyCharm
+- cv2, numpy, pytesseract
